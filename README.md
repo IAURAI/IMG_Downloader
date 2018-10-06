@@ -5,6 +5,6 @@ We use JS and HTML in base.
 Also we work on vue.js.
 This code could find images in your urls
                 ,sort them in your criteria
-                ,and save in your storage.
+                ,and save them in your storage.
                 
 That`s it!
